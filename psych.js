@@ -23,8 +23,8 @@ var app = express();
  */
 AWS.config.update({
     region: "us-west-1",
-    accessKeyId: "AKIAJSXUQYSY6AJPIEAA",
-    secretAccessKey: "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"
+    accessKeyId: "x",
+    secretAccessKey: "x/x"
 });
 
 
