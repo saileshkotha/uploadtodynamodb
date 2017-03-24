@@ -17,8 +17,8 @@ var async = require('async');
 
 AWS.config.update({
     region: "us-west-1",
-    accessKeyId: "AKIAJSXUQYSY6AJPIEAA",
-    secretAccessKey: "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"
+    accessKeyId: "x",
+    secretAccessKey: "AkL8r4VKD/x"
 });
 
 var svc = new AWS.DynamoDB();
